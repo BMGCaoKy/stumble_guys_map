@@ -1,0 +1,71 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "26644713697705985",
+        "uniqueKey": "map001"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8752730057298116609",
+        "ID": 1,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8752730057385082881",
+        "ID": 2,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/player1",
+        "id": "8755433345633943553",
+        "name": "Player",
+        "position": {
+          "x": 1.1822769641876,
+          "y": 3.6597666740417,
+          "z": 48.125713348389
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/player1",
+        "id": "8755433372346908673",
+        "name": "Player",
+        "position": {
+          "x": 2.3410000801086,
+          "y": 1.5571136474609,
+          "z": 35.107009887695
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "3e69aaa495d09e95551356025c8e3c06"
+    },
+    "VERSION": "0.22"
+  }
+}

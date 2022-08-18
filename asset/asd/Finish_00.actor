@@ -1,0 +1,134 @@
+<ActorTemplates>
+    <ActorTemplate name="Finish_00.actor" Originalscale="1 1 1" Skeleton="asset/asd/Finish_00.skel" AttackScale="1" TextHeight="0" IsShowShadow="true" WoundBone="" WoundAngle="25" SelectedRingSize="1" SoundName1="" SoundName2="" SoundName3="" SoundName4="" SoundName5="" SoundFileNum="0" Volume="0.8" MinDistance="1" MaxDistance="16" IntervalTime="2" Alpha="1" ThreadPriority="0">
+        <BodyParts>
+            <BodyPart MasterName="mutex_name0" SlaveName="group0" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+            <BodyPart MasterName="mutex_name1" SlaveName="group1" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish1.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+            <BodyPart MasterName="mutex_name2" SlaveName="group2" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish2.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+            <BodyPart MasterName="mutex_name3" SlaveName="group3" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish3.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+            <BodyPart MasterName="mutex_name4" SlaveName="group4" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish4.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+            <BodyPart MasterName="mutex_name5" SlaveName="group5" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <StaticMesh LocalAlpha="1">
+                    <FileName value="asset/asd/Finish5.mesh"/>
+                    <SocketName value="Finish_00"/>
+                    <Position_X value="0"/>
+                    <Position_Y value="0"/>
+                    <Position_Z value="0"/>
+                    <yaw value="0"/>
+                    <pitch value="0"/>
+                    <roll value="0"/>
+                    <scale value="1"/>
+                    <UseBloom value="false"/>
+                    <LocalBrightnessScale value="1"/>
+                    <UseTransparentNearestSlice value="false"/>
+                    <OverlayColor value="1 1 1 1"/>
+                    <SpecularColor value="1 1 1 1"/>
+                    <SpecularCoef value="0.15"/>
+                    <SpecularStrength value="1"/>
+                </StaticMesh>
+            </BodyPart>
+        </BodyParts>
+        <Skills>
+            <Skill Name="asd_Finish_00" EnableWound="false" UserDefineTime="-2" TextMode="0">
+                <Animation Name="asset/asd/asd_Finish_00.anim" BeginTime="0" Times="1" Length="3.2333333" FadeTime="0.050000001" Channel="upper" TimeScale="1"/>
+            </Skill>
+        </Skills>
+        <Anims>
+            <Anim Name="asset/asd/asd_Finish_00.anim"/>
+        </Anims>
+    </ActorTemplate>
+</ActorTemplates>

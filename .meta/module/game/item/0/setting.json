@@ -1,0 +1,44 @@
+{
+  "data": {
+    "canJoinMidway": false,
+    "fixed_viewPos": {
+      "pos": {
+        "__OBJ_TYPE": "Vector3i"
+      }
+    },
+    "initPos": {
+      "map": "SpinGoGround_ID",
+      "pos": {
+        "x": 0.98507261276245,
+        "y": 130.118,
+        "z": 47.859729766846
+      }
+    },
+    "nowTime": {
+      "h": 7,
+      "m": 40
+    },
+    "player_range": {
+      "max": 6,
+      "min": 1
+    },
+    "startPos": {
+      "map": "SpinGoGround_ID",
+      "pos": {
+        "x": -0.35586547851562,
+        "y": 129.118,
+        "z": 46.245937347412
+      }
+    },
+    "unlimitedPlayTime": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f3308f012221501dbd795e1818a1fa6f",
+      "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
+      "triggers.bts": "",
+      "triggers_client.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
